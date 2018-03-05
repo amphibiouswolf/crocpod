@@ -1,6 +1,6 @@
 Croc Pod
 
-Why the name Croc Pod?  Well they are animals that use both land and water, though happier in the water.
+Why the name Croc Pod?  Well crocodiles are animals that use both land and water, though happier in the water.
 Croc pod is a tow-able, floating living space.  Water locomotion via Sails, Engine, or windmill driven propeller.  Goal of a tiny home with a flat bottom, equally at home on land or water.  Basic hull design being a flat bottom rectangular barge. Include attachment points at corners,  Initial thoughts using twist locks like used on shipping containers.  Basic premise, all Croc Pods float, no matter if set on land or a marina slip.  For ease of building, no thru hull's below the water line.
 
 
@@ -17,7 +17,7 @@ Hull 8x32 feet
  Cons
   Less cargo space.
 
-Hull 8x34 feet
+Hull 8x36 feet
  Pros
   More Storage space
  Cons
@@ -59,8 +59,3 @@ License
 
 Acknowledgments
  While thinking about this project Stumbled across TriloBoats. (http://www.triloboats.com)  Thinking these boat designs fit well with this plan.
-
- 
-
-  
-  
