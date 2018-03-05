@@ -52,7 +52,7 @@ Work needed.
   3) Bonus if GPS Pi dies, can pull out Media Pi to get replace if needed.
 
 Authors
- 1) Initial Project thoughts Mark Keith.  Crocpod.living@protonmail.com
+ 1) Initial Project thoughts Mark Keith.  crocpod.living@protonmail.com
 
 License
  GNU License V3
